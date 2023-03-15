@@ -1,0 +1,31 @@
+.home-header-drop span {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: rgba(81, 85, 95, 1);
+    font-family: 'Open Sans';
+    font-style: normal;
+}
+
+.home-header-drop .down {
+    margin-left: 10px;
+}
+
+.home-right .top {
+    display: flex;
+    justify-content: end;
+}
+
+.home-icon .pasha-logo {
+    border: 1px solid #C5C9D4;
+    border-radius: 10px;
+    padding: 2px;
+    margin-right: 6px;
+}
+
+.home-bell-icon img {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-left: 20px;
+}
